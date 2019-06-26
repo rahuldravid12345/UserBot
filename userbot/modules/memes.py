@@ -185,41 +185,39 @@ RUNSREACTS = [
     "`Running faster than usian bolt coz I'mma Bot`",
     "`Runs to Marie`",
     "`This Group is too cancerous to deal with.`",
-    "`Cya bois`",
+    "`Jati Rehje`",
     "`I am a mad person. Plox Ban me.`",
     "`I go away`",
     "`I am just walking off, coz me is too fat.`",
     "`I Fugged off!`",
 ]
 RAPE_STRINGS = [
-     "`Rape Done Drink The Cum`",
-     "`The user has been successfully raped`",
+     "`Rape Done Enjoy the Shower`",
+     "`The user has been successfully raped. I will Examine You If Needed Legally 🤭`",
      "`Dekho Bhaiyya esa hai! Izzat bachailo apni warna Gaand maar lenge tumhari`",
      "`Relax your Rear, ders nothing to fear,The Rape train is finally here`",
-     "`Rape coming... Raped! haha 😆`",
+     "`Rape coming... Raped! haha 😆 Come to me For Legal Examination`",
      "`Lodu Andha hai kya Yaha tera rape ho raha hai aur tu abhi tak yahi gaand mara raha hai lulz`",
 ] 
 ABUSE_STRINGS = [
        "`Madharchod`",
-	   "`Gaandu`",
 	   "`Chutiya he rah jaye ga`",
-	   "`Ja be Gaandu`",
-	   "`Ma ka Bhodsa madharchod`",
+	   "`Ja be Chodulund`",
+	   "`Maa ka Bhosda madharchod. Chal 100rs Nikaal to Dusri baar nahi bolunga`",
 	   "`Sochna padta hain re, konsi konsi gaali deni Sochna pdta hain merko`",
-	   "`You MotherFukcer`",
+	   "`Ae Raju, Khopdi tod sale ki...khopdi tod`",
 ]
 GEY_STRINGS = [
      "`you gey bsdk`",
-     "`you gey`",
-     "`you gey in the house`",
-     "`you chakka`",
+     "`you gey in the house... 377 tere liye hi to kiya hain`",
+     "`you chakka... Join Rainbow Parade`",
      "`you gey gey gey gey gey gey gey gey`",
-     "`you gey go away`",
+     "`You Gey Nikal. Pehli Fursat Mein Hi Nikal Lawde`",
 ]
 PRO_STRINGS = [
-     "`This gey is pro as phack.`",
+     "`This gey is pro as phack. Gib me RDP`",
      "`Pros here -_- Time to Leave`",
-     "`Muh Me Lega Bhosdike ?`",
+     "`Muh Me Lega Bhosdike Hitarth ka?`",
 ]
 ABUSEHARD_STRING = [
 	"`Nikal Lavde, Pehli Fursat Main Nikal.... Madarchod Randi ke bacche.Oye bosdike madarchod bhen ke lode tere gand me lohe ka danda garam karke dalu randwe tujhetho gali ke kutte gand pe chut rakh ke katenge me bata raha hu tere lode pe madhu makkhi Katelode ke ando pe Road roller chale tu kab bathroom me muthne Jaye tho Tera loda ghir Jaye fir tere ando me se lizard ke bacche nikle teko kidnap Kare aur childporn banaye maa ke chuttad ke lode tere saat Johnny sins rape Kare aur jab wo teko anal de tab loda andar fas Jaye bkl tere jhaat pe waxing karunga me dhek lio fir jab tu chillayega na tab tere muh me Mai gai ka gobar dalunga sale tere gand ke balo pe tel laga ke jala du me teko Anaconda leke gand me dalu tho muh se nikle maa ke lode hamesha chutiyo jaisa bartav kartha he tu maa ke Dai chawal drugs tere gand Me dalunga thi tatti nahi nikle maa darchod kabhi teko Marne ka mouka mil gaya na tho bas I'll do my best to get that tatti outof you aur tere jaise chutio ko is duniya me jagaha bhi nahi maa ke lode bandarchod tere gand me chitiya Kate wo bhi bullet ants maadarchod samj nahi aaraha tere baap NE teko kya khake paida kiya Tha kesa chutiya he tu rand ke bacche teko shadi me khana khane na mile teko gand pe 4 thappad mare sab log aur blade se likhe I want anal madarchod bosdike maccharki tatte ke baal chutiye maa ke chut pe ghode ka Lund tere gand me jaltha hu koila Dale bhen ke lode MAA KI CHUT MAI TALWAR DUNGA BC CHUT FAT JAEGI AUR USME SE ITNA KHOON NIKLEGA MZA AJAEGA DEKHNE KA SALE MAA KE BHOSDE SE BAHR AJA FIR BAAP SE ZUBAN DA TERI MAA KI CHUT CHOD CHOD KE BHOSDABNADU MADARCHOD AUR USKE UPAR CENENT LAGADU KI TERE JESA GANDU INSAAN KABHI BAHR NA A SKE ESI GANDI CHUT MAI SE LODA LASUN MADRCHOD TERI MAA KI CHUT GASTI AMA KA CHUTIA BACHA TERI MAA KO CHOD CHOD K PAGAL KAR DUNGA MAA K LODY KISI SASTIII RANDII K BACHY TERI MAA KI CHOOT MAIN TEER MAARUN GANDU HARAMI TERI COLLEGE JATI BAJI KA ROAD PEY RAPE KARONGANDU KI OLAAD HARAM KI NASAL PAPA HUN TERA BHEN PESH KAR AB PAPA KO TERI MAA KKALE KUSS MAIN KIS`",
