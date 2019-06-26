@@ -34,15 +34,15 @@ async def fastpurger(purg):
             await purg.client.delete_messages(chat, msgs)
         done = await purg.client.send_message(
             purg.chat_id,
-            "`Fast purge complete!\n`Purged "
+            "`I Snapped Fucking All Messages like Thanos\n`Purged "
             + str(count)
             + " messages. **This auto-generated message shall be self destructed in 2 seconds.**",
         )
 
         if BOTLOG:
             await purg.client.send_message(
-                BOTLOG_CHATID, "Purge of " +
-                str(count) + " messages done successfully."
+                BOTLOG_CHATID, " Maine " +
+                str(count) + " Messages Uda Diye."
             )
         await sleep(2)
         await done.delete()
@@ -64,14 +64,14 @@ async def purgeme(delme):
 
         smsg = await delme.client.send_message(
             delme.chat_id,
-            "`Purge complete!` Purged "
+            "`I Snapped!` All messages Gaayab "
             + str(count)
             + " messages. **This auto-generated message shall be self destructed in 2 seconds.**",
         )
         if BOTLOG:
             await delme.client.send_message(
-                BOTLOG_CHATID, "Purge of " +
-                str(count) + " messages done successfully."
+                BOTLOG_CHATID, "Maine " +
+                str(count) + " Messages Uda Diye."
             )
         await sleep(2)
         i = 1
