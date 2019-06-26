@@ -32,7 +32,7 @@ async def mention_afk(mention):
             elif mention.sender_id in USERS:
                 if USERS[mention.sender_id] % 5 == 0:
                     await mention.reply(
-                        "Sorry! But my boss is still not here."
+                        "Sorry! He is busy in his life re... please you too get your life."
                         "\nTry to ping him a little later. I am sorry 😖."
                         f"\nHe told me he was busy with `{AFKREASON}`."
                     )
