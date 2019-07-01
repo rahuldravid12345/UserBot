@@ -19,7 +19,7 @@ from userbot.events import register
 async def capture(url):
     """ For .sc command, capture a website and send the photo. """
     if not url.text[0].isalpha() and url.text[0] not in ("/", "#", "@", "!"):
-        if SCREENSHOT_LAYER_ACCESS_KEY is "2a2618552288957":
+        if SCREENSHOT_LAYER_ACCESS_KEY is "87dd0134d934ea6fc47a46e7e14f8109":
             await url.edit(
                 "Need to get an API key from https://screenshotlayer.com/product \nModule stopping!"
             )
