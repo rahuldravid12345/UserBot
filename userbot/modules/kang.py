@@ -16,9 +16,9 @@ from userbot import bot, CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern="^.kang")
-async def kang(args):
-    """ For .kang command, kangs stickers or creates new ones. """
+@register(outgoing=True, pattern="^.attack")
+async def attack(args):
+    """ For .attack command, kangs stickers or creates new ones. """
     if not args.text[0].isalpha() and args.text[0] not in ("/", "#", "@", "!"):
         user = await bot.get_me()
         if not user.username:
@@ -156,11 +156,11 @@ async def resize_photo(photo):
 
 
 CMD_HELP.update({
-    "kang": ".kang\
-\nUsage: Reply .kang to a sticker or an image to kang it to your userbot pack.\
-\n\n.kang [emoji('s)]\
-\nUsage: Works just like .kang but uses the emoji('s) you picked.\
-\n\n.kang [number]\
+    "attack": ".attack\
+\nUsage: Reply .attack to a sticker or an image to kang it to your userbot pack.\
+\n\n.attack [emoji('s)]\
+\nUsage: Works just like .attack but uses the emoji('s) you picked.\
+\n\n.attack [number]\
 \nUsage: Kang's the sticker/image to the specified pack but uses 🤔 as emoji.\
-\n\n\nPlease kang this. Made by @rupansh."
+\n\n\nPlease attack this. Made by @rupansh."
 })
