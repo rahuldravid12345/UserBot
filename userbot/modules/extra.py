@@ -15,7 +15,7 @@ from userbot.modules.rextester.api import UnknownLanguage, Rextester
 @register(outgoing=True, pattern="^.leave$")
 async def leave(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("`I iz Leaving dis Group kek!`")
+        await e.edit("`Oh fakk, I made a mistake, add me back ploxx!`")
         time.sleep(3)
         if '-' in str(e.chat_id):
             await bot(LeaveChannelRequest(e.chat_id))
@@ -29,7 +29,7 @@ async def fun(e):
         t = t[:-1] + "_;"
         await e.edit(t)
 
-@register(outgoing=True, pattern="^Oof$")
+@register(outgoing=True, pattern="^.Oof$")
 async def Oof(e):
     t = "Oof"
     for j in range(15):
@@ -87,7 +87,7 @@ async def disapprovepm(disapprvpm):
             name0 = str(aname.first_name)
 
         await disapprvpm.edit(
-            f"[{name0}](tg://user?id={disapprvpm.chat_id}) `Disaproved to PM!`"
+            f"[{name0}](tg://user?id={disapprvpm.chat_id}) `Disapproved! Ab kar message Bsdk!`"
             )
 
         if BOTLOG:
