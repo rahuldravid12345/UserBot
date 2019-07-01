@@ -42,7 +42,7 @@ async def kang(args):
                 await args.edit("`Unsupported File!`")
                 return
         else:
-            await args.edit("`Reply to photo to kang it bruh`")
+            await args.edit("`Bsdk nahi aata hain to dusro ko dekh`")
             return
 
         if photo:
@@ -125,7 +125,7 @@ async def kang(args):
                     await bot.send_read_acknowledge(conv.chat_id)
 
             await args.edit(
-                f"Sticker added! Your pack can be found [here](t.me/addstickers/{packname})",
+                f"Ab ye tera ho gaya! Agar trust nahi hain to dekhle [here](t.me/addstickers/{packname})",
                 parse_mode='md'
             )
 
