@@ -74,7 +74,7 @@ async def sed(command):
             to_fix = textx.text
         else:
             await command.edit(
-                "`Master, I don't have brains. Well you too don't I guess.`"
+                "`Now don't you dare to say anything for a moment... Please gimme some time to cooldown.`"
             )
             return
 
@@ -82,7 +82,7 @@ async def sed(command):
 
         if not repl:
             await command.edit(
-                "`Master, I don't have brains. Well you too don't I guess.`"
+                "`Now don't you dare to say anything for a moment... Please gimme some time to cooldown.`"
             )
             return
 
