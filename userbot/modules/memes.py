@@ -256,7 +256,7 @@ async def kek(keks):
 async def lol(lel):
     """ Ok... """
     okay = "-_-"
-    for _ in range(10):
+    for _ in range(15):
         okay = okay[:-1] + "_-"
         await lel.edit(okay)
 
